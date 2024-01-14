@@ -1,1 +1,2 @@
-# stock-predictor
+# Using a LSTM model to predict stock performance
+
