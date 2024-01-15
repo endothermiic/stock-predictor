@@ -12,4 +12,4 @@ The remainder of this notebook contains data pre-processing, model training and 
 
 **Note:** Users wanting to experiment can modify the kernal size, number of epochs, batch size and loss metric to observse how the max error, R^2 and loss plots change. The final result of the model as is shown below:
 
-<img width="573" alt="image" src="https://github.com/endothermiic/stock-predictor/assets/103846051/dd838994-514c-4f31-b1ec-a2f24279c635">
+<img width="490" alt="image" src="https://github.com/endothermiic/stock-predictor/assets/103846051/c2bf644d-5d9d-46e2-9cc8-dbd0c728760d">
